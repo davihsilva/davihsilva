@@ -2,7 +2,7 @@
 
 <p align="left"> 
 Me chamo Davi, tenho 15 anos, tenho experiência em HTML/CSS e estou procurando um trabalho como<strong>Desenvolvedor front-end</strong>.<br>
-  I'm currently in my first year of high school and I'm taking a programming course
+Atualmente estou no meu primeiro ano do ensino médio e estou fazendo um curso de programação
 </p>
 
 <p align="left">
