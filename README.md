@@ -6,7 +6,7 @@ Atualmente estou no meu primeiro ano do ensino médio e estou fazendo um curso d
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML/CSS/JAVASCRIPT.</strong>
+  😁 Linguagens: <strong>HTML/CSS/JAVASCRIPT.</strong>
 </p>
 
 <p align="left">
