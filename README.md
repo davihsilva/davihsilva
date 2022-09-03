@@ -21,5 +21,5 @@ Atualmente estou no meu primeiro ano do ensino médio e estou fazendo um curso d
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white& link=https://www.linkedin.com/in/davi-silva-327b65224/" /></a>
 
   <a href="https://www.instagram.com/odavi_silvaa/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white& link=https://www.instagram.com/off_davii_/"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white& link=https://www.instagram.com/off_davii_/></a>
 </p>  
